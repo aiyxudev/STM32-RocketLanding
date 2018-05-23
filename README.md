@@ -18,16 +18,14 @@ will be display.
 
 This game include: 
 
--LCD
--Audio 
--Nunchuck 
--Board Accel, Gyro
--SD card
+- LCD
+- Audio 
+- Nunchuck 
+- Board Accel, Gyro
+- SD card
 
 # How to set up and how to play
-![alt text](https://raw.githubusercontent.com/aiyxudev/STM32-RocketLanding/branch/images/to/rocketlandingplaying.png)
-
-# Contributing 
+![Playing](https://github.com/aiyxudev/STM32-RocketLanding/blob/master/images/rocketlandingplaying.png)
 
 
 
