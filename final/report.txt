@@ -1,0 +1,25 @@
+q1)Describe each of the tasks that you were responsible for performing and
+how each contributed to the overall project.
+
+I am mainly responsible for the sound effect. The sound effect give more dimension 
+for the game and increase the gaming experience. And convert image file to rgb using 
+file system to ensure it can display on the board disregarding if STM32 board react to SD card. 
+
+
+q2)What technical challenges did you encounter in completing your tasks? 
+
+The most difficult technical challenge I had is with the audio file. A lot of file size of 
+wav files I donwloaded is way too big. I adjusted the sample rate and bitrate using sox command 
+to match with "thermo.wav" file. Even though while running the game I still constantly getting 
+rc = 9 error message, at least I can get it to play.
+
+The same problem also exist for image display as well. We try to use read image from sd card, 
+however, since the STM32 is really sensitive and it mostly ends up with rc=3. Therefore, I implement 
+file system to place image as rgb format.
+
+
+q3)What would you do differently if you could start the project over?
+
+I will first make sure the video file can be played 
+I wish we can record player's scores using how much time they need to finish the level,the quicker you finish 
+the higher score you will get. 
