@@ -25,7 +25,7 @@ This game include:
 - SD card
 
 # How to set up and how to play
-![Playing](https://github.com/aiyxudev/STM32-RocketLanding/blob/master/images/rocketlandingplaying.png)
+![Playing](https://github.com/aiyxudev/STM32-RocketLanding/blob/master/images/rocketlandingstart.png)
 
 
 
