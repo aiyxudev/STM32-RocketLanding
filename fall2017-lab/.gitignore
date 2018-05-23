@@ -1,0 +1,10 @@
+# compiling byproducts
+*.d
+*.o
+*.obj
+*.elf
+*.hex
+
+# editor backup/autosave files
+*~
+.#*
